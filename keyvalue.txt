@@ -1,0 +1,21 @@
+black
+41048B7 - UP
+410C837 - down
+41028D7 - left
+4106897 - right
+410A857 - enter  
+41000FF - power
+41020DF - mute
+41040BF - vol+
+410C03F - vol-
+
+
+grey
+
+E0E048B7 - UP
+E0E008F7 - down
+E0E0D02F - left
+E0E0E01F - right
+E0E058A7 - enter
+E0E040BF - power
+E0E0F00F - mute
